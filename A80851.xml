@@ -1,0 +1,358 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The covenant newly revived. In a conference between Mr. Crofton and a converted Scotch parson. Discovering all the whole mistery of iniquity carried on by hare-brain'd faction under pretence of reformation.</title>
+            <author>Crofton, Zachary, 1625 or 6-1672.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1661</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A80851</idno>
+            <idno type="STC">Wing C7002</idno>
+            <idno type="STC">Thomason E1878_3</idno>
+            <idno type="STC">ESTC R209843</idno>
+            <idno type="EEBO-CITATION">99868697</idno>
+            <idno type="PROQUEST">99868697</idno>
+            <idno type="VID">170513</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A80851)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 170513)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 234:E1878[3])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The covenant newly revived. In a conference between Mr. Crofton and a converted Scotch parson. Discovering all the whole mistery of iniquity carried on by hare-brain'd faction under pretence of reformation.</title>
+                  <author>Crofton, Zachary, 1625 or 6-1672.</author>
+               </titleStmt>
+               <extent>16 [i.e. 15], [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Printed in the year, 1661.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A satire.</note>
+                  <note>P. 15 misnumbered 16.</note>
+                  <note>Annotation on Thomason copy: "Aprill".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Presbyterianism --  Humor --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-06</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:170513:1" rendition="simple:additions"/>
+            <p>
+               <hi>THE SCOTCH</hi> Covenant NEWLY REVIVED. <hi>IN</hi> A Conference between Mr. <hi>Crofton</hi> and a Converted Scotch Parſon.</p>
+            <p>Diſcovering all the whole Miſtery of Iniquity carried on by hare-brain'd Faction under pretence of Reformation.</p>
+            <p>
+               <hi>LONDON:</hi> Printed in the Year, 1661.</p>
+         </div>
+      </front>
+      <body>
+         <div type="dialogue">
+            <pb facs="tcp:170513:2"/>
+            <pb n="3" facs="tcp:170513:2"/>
+            <head>THE PREAMBLE.</head>
+            <p>
+               <seg rend="decorInit">M</seg>r <hi>Crofton</hi> being ſpi<g ref="char:EOLhyphen"/>ritually adverti<g ref="char:EOLhyphen"/>ſed to invite Mr. <hi>Withers</hi> to din<g ref="char:EOLhyphen"/>ner, and eſpecial<g ref="char:EOLhyphen"/>ly to give him thanks (on the behalf on his Church-Common<g ref="char:EOLhyphen"/>ers) for remaining ſo conſtant to his Principles of ſedition, and expreſſing himſelf ſo freely in Print for the Covenant, where<g ref="char:EOLhyphen"/>by <pb n="4" facs="tcp:170513:3"/>by Mr.
+<hi>Crofton</hi> thought his own ſpurious pamphlets the more ſtrengthened and ſecured, and his Lungs the better clarified, and preſerved, by that powder of Brimſtone, to hold out belch<g ref="char:EOLhyphen"/>ing againſt all thoſe who would not fall down and worſhip the Calf-Covenant with the white face. It happen'd that an honeſt <hi>Scottiſh</hi> Parſon <hi>(Rara avis &amp;c.)</hi> having read ſome of <hi>Croftons</hi> Pulpit Paſquils, and poyſonous Papers againſt the Primitive power, and Baſis of Church-Go<g ref="char:EOLhyphen"/>vernernment,
+<hi>Epiſcopacy;</hi> and conceiving himſelf able enough to enter the Liſt againſt ſo Ig<g ref="char:EOLhyphen"/>norant and Weak a Diſputant, enquired for <hi>Croftons</hi> houſe, to <pb n="5" facs="tcp:170513:3"/>which he was directed by a Boy where like an unwelcome or un-ſent-for perſon, he waited till after Dinner; and then Mr. <hi>Crofton,</hi> ſetting his Beard, (as much as there was of it) in Print, ordering his Band, draw<g ref="char:EOLhyphen"/>ing his Month together, (as you have ſeen a Milk Wench pictur'd in a Land-skip) and putting his Countenance into the preciſe Model of a vizard, accoſts the <hi>Scotch</hi> man in theſe words; <hi>What is your will with me?</hi> The Parſon ſomewhat a<g ref="char:EOLhyphen"/>mazed at his State and Forma<g ref="char:EOLhyphen"/>lity, anſwered; <hi>Geod feath Mon, I ken no whot ta ſpeke toll thee, gif tow tekst ſike Stat upon thee,</hi> Crofton diſcovering him by <pb n="6" facs="tcp:170513:4"/>his Tongue to be a <hi>Scottiſh</hi>-man, thought he was ſent to him upon ſome Deſigne from the <hi>Kirk;</hi> cryed him Mercy, took him by the hand, and requeſted him to walk with him up ſtaires, where they had dined; Mr.
+<hi>Crofton</hi> deſiring Mr. <hi>Withers</hi> (his Brother in iniquity) to ſalute the Parſon, as a reverend Mem<g ref="char:EOLhyphen"/>ber, and Pillar of their Church: which to do, Mr. <hi>Withers</hi> like<g ref="char:EOLhyphen"/>wiſe ſets his face on the skrewes, and then enquires what newes in <hi>Scotland: I ken noot ſir,</hi> quoth the Parſon, and laughed heartily: Mr. <hi>Withers</hi> (repre<g ref="char:EOLhyphen"/>hending his error) ſaid, I mean, in, from, or out of <hi>Scot<g ref="char:EOLhyphen"/>land;</hi> they are all one by a
+<pb n="7" facs="tcp:170513:4"/>Trope; but pray. Sir, what Newes out of <hi>Scotland,</hi> if you will have it ſo?</p>
+            <sp>
+               <speaker>Scottiſh.</speaker>
+               <p>I <hi>Here ne mare than ye aw her, gif yee ha eny luggs.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Crofton.</speaker>
+               <p>But how does the Parlia<g ref="char:EOLhyphen"/>ment proceed there?</p>
+            </sp>
+            <sp>
+               <speaker>Scottiſhman.</speaker>
+               <p>
+                  <hi>Marry, mickle weele, thay ha brunt the Coov'nant, ſir, beth<g ref="char:EOLhyphen"/>hond o the Comon Hong mon.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Crofton.</speaker>
+               <p>Oh horrid!</p>
+            </sp>
+            <sp>
+               <speaker>Withers.</speaker>
+               <p>Oh horrid! <hi>Monſtra mo<g ref="char:EOLhyphen"/>rendum.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Crofton.</speaker>
+               <p>I'le juſtifie it was an act of ſacriledge, a work of the Divel.</p>
+            </sp>
+            <sp>
+               <speaker>Withers.</speaker>
+               <p>And his damme, a ſin 'gainſt God and man.</p>
+            </sp>
+            <sp>
+               <speaker>Crofton.</speaker>
+               <p>Nay, a plain ſin againſt the Holy Ghoſt; for as I ſind it, and can prove it, it is a ſin againſt know<g ref="char:EOLhyphen"/>ledge, <hi>Ergo,</hi> a ſin againſt the Holy Ghoſt, as I ſaid before.</p>
+            </sp>
+            <sp>
+               <speaker>Withers.</speaker>
+               <p>A ſin unpardonable, and therefore damnable.</p>
+            </sp>
+            <pb n="8" facs="tcp:170513:5"/>
+            <sp>
+               <speaker>Scottiſhman.</speaker>
+               <p>
+                  <hi>Haud, haud, ſirs, haud, ne mere Blesfemy, wha med the Coov<g ref="char:EOLhyphen"/>nant?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Crofton.</speaker>
+               <p>The ſelect people of God.</p>
+            </sp>
+            <sp>
+               <speaker>Withers.</speaker>
+               <p>The Righteous of three Nations; like as a three-fold cord is the ſtrongeſt, ſo the Covenant was ſtrengthened, and made up with the moſt undefiled hands of three Na<g ref="char:EOLhyphen"/>tions.</p>
+            </sp>
+            <sp>
+               <speaker>Scottiſhman.</speaker>
+               <p>
+                  <hi>Haud, haud, ſirs, haud, yee gang ta feſt: A me ſaw, the thrads o that Coord was wop'd in Hell, an yar Coovnant med up o the Deele himſell; I ken it reit weele ſirs, gif ye ha eny greſs curſs an ban it fro yar hooſe an yar ſaws ſirs, an faw to the tra ſervice o Goad ſirs; mind yee me; let noot Prid an ſiller damm ye ſirs, ye ha a gretious King ſirs, an a geod Kirk Government noow ſirs, I up<g ref="char:EOLhyphen"/>hold ye ſirs, the lick i ne plece i the Wardd ſirs.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Crofton.</speaker>
+               <p>Yes at <hi>Rome</hi> ſir.</p>
+            </sp>
+            <sp>
+               <speaker>Scottiſhman.</speaker>
+               <p>
+                  <hi>Fi, fi, geod feath yare mickle oout ſirs.</hi>
+               </p>
+            </sp>
+            <pb n="9" facs="tcp:170513:5"/>
+            <sp>
+               <speaker>Crofton.</speaker>
+               <p>Where the Whore of <hi>Ba<g ref="char:EOLhyphen"/>bylon</hi> commits daily fornication with the Kings of the earth.</p>
+            </sp>
+            <sp>
+               <speaker>Withers.</speaker>
+               <p>And hides all her iniquities in Lawn Sleeves, the Marke of the Beaſt is upon her.</p>
+            </sp>
+            <sp>
+               <speaker>Crofton</speaker>
+               <p>ſhe drinks the blood of the Faithful, and devours the livings of the Godly; ſhe is more Inſatiate then the Sea or the Grave.</p>
+            </sp>
+            <sp>
+               <speaker>Withers</speaker>
+               <p>Or Hell fire, and choakes worſe then brimſton.</p>
+            </sp>
+            <sp>
+               <speaker>Scottiſhman</speaker>
+               <p>
+                  <hi>Yare mickle wiſe ſirs, ye ha roab'd a feole latly ſirs, mind yee me an herke yee toll me be aviſd ſirrs I ſpeke fur aw yere geods. yare Coovnant has med ye aw woud ſirrs, be aviſed ſirs.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Crofton.</speaker>
+               <p>The Covenant was a ſa<g ref="char:EOLhyphen"/>cred thing, framed to maintain the Church in its Primitive whiteneſſe and purity.</p>
+            </sp>
+            <sp>
+               <speaker>Withers.</speaker>
+               <p>Againſt the pride of the Prelates and the Innovations of Antichriſt.</p>
+            </sp>
+            <sp>
+               <speaker>Scottiſhman.</speaker>
+               <p>
+                  <hi>Oout oout faw ſham, the <pb n="10" facs="tcp:170513:6"/>faw deele has gin yee a lift, fro Goad Sirs an noow ye lick Lymmer loones ſpet at his ſervants gif yee had ane, fer O the Loord yee wold noot de as yee de Sirs.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Crofton.</speaker>
+               <p>Why, What doe we doe Sir?</p>
+            </sp>
+            <sp>
+               <speaker>Withers.</speaker>
+               <p>I, What doe we doe Sir?</p>
+            </sp>
+            <sp>
+               <speaker>Crofton.</speaker>
+               <p>Did not the Covenant re<g ref="char:EOLhyphen"/>ceive its Birth in your Countrey? and were not your Countreymen the law<g ref="char:EOLhyphen"/>ful and rightful Fathers of it? and were not we advertiſed by <hi>Henderſon,</hi> that man of God;</p>
+            </sp>
+            <sp>
+               <speaker>Scotchman.</speaker>
+               <p>
+                  <hi>O the dele mon</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Crofton.</speaker>
+               <p>And many other precious Saints by Letters; I ſay advertiſed by Letters, with holy and powerful ſan<g ref="char:EOLhyphen"/>ctifying Reaſons that Biſhops were not <hi>Jure Divino,</hi> that their Calling &amp; Power in the Church was but mere Uſurpa<g ref="char:EOLhyphen"/>tion, promoted by the Pope to intro<g ref="char:EOLhyphen"/>duce his Power, and make the Sea of <hi>Rome</hi> more glorious; and to that end to
+<pb n="11" facs="tcp:170513:6"/>ſecond their Brotherly Engagements with us (who were tender Conſcien<g ref="char:EOLhyphen"/>ces) made an Inrode into
+<hi>England</hi> with the Bible in one hand, and Sword in the other the very Sword of the Spirit which carried all before it and puniſhed all from
+<hi>Dan</hi> to <hi>Bar<g ref="char:EOLhyphen"/>ſheba;</hi> do you not know this?</p>
+            </sp>
+            <sp>
+               <speaker>Scottiſhman.</speaker>
+               <p>
+                  <hi>Ne be Goad noow yee mack me ſwer, for aw the tim, the Coove<g ref="char:EOLhyphen"/>nant ers wern up i Erms, they wern beten meſt beſtly i ery plece, an the geod King ded proſper tol</hi> Crumwall <hi>(the faw deele ſplits Crag for't) cam wi his Independent riff raff ragged rogs thaut fooght for the Kirk, but plunder'd the Quire oout o hoilly roth the dele a bit ded yar thar Coovenant threve Sirs, tall than Sirs.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Crofton.</speaker>
+               <p>You are miſtaken ſir, Out intentions were geod, Our Cauſe was geod, and our ſucceſſe in every place geod.</p>
+            </sp>
+            <sp>
+               <speaker>Scotchman.</speaker>
+               <p>
+                  <hi>Ded yee fitt foor Goad oor the Deele ſirs, oor foor ſiller ſirs, foor Mammon ſirs, the Deels none Couſin
+<pb n="12" facs="tcp:170513:7"/>ſios, ans Damms Munion ſirs</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Crofton.</speaker>
+               <p>We fought for the Cove<g ref="char:EOLhyphen"/>nant ſir.</p>
+            </sp>
+            <sp>
+               <speaker>Scottiſhman.</speaker>
+               <p>
+                  <hi>Wha the Deele ſhod yee fitt foor that yee had befer ſirs?</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Crofton.</speaker>
+               <p>We fought for the keep<g ref="char:EOLhyphen"/>ing and maintaining it.</p>
+            </sp>
+            <sp>
+               <speaker>Withers.</speaker>
+               <p>And for the Church in generall, and againſt Biſhops and Pre<g ref="char:EOLhyphen"/>lates as we ſaid before.</p>
+            </sp>
+            <sp>
+               <speaker>Scottiſhman.</speaker>
+               <p>
+                  <hi>Ne Ne geod feath, I ken wee'l enoow what yee foot for firs; Ye foote een'e anenſt the Kirke an foor the Beſhops Lands ſirs, an foorne yere none pert</hi> Maſter Copton Wrethers <hi>yee durſt nere leoke a ti<g ref="char:EOLhyphen"/>ny Kitlin ith fece, yat lick Seint Thefe in the Legend; Yee ha threv'e brawly; wi a murren toll yee a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> Noll <hi>grazd a fett Soow i the brech, whan he ga you the Statute Office, <pb n="13" facs="tcp:170513:7"/>whilke yee ſauld i the Deeles nam to Maſter thats o the Duck, Drake Drack,</hi> Maſter <hi>Drake Drack for a powr o poonds geod an mickle ſterlin ſiller be the Maſſe, an ded yee noot ater yee had plunder<g ref="char:EOLhyphen"/>ed the Biſhops o thar hoorſes and ſiller bi thar Londs an ſa roobd the Kirke i the faw Deels nem an noow de yee complan o yar paverte i prent; wi a hoorſe pox toll yee aw me ſaw ye pratend lyolty, an hoow muckle yee ha loov'd the King and Kirke, whan yee ha wrot an ſpeke anenſt um lick a ralling rat<g ref="char:EOLhyphen"/>ling rag as towart an enderſt emong yee toll riſ a new warr ſirs anenſt the pece othe King an Countre.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Withers.</speaker>
+               <p>The Man's mad ſure, have you a minde to bee beaten Prieſt?</p>
+            </sp>
+            <sp>
+               <speaker>Scottiſhman.</speaker>
+               <p>
+                  <hi>Wha ſall dot, noot ſike a limmer Loone, a rabbell rab<g ref="char:EOLhyphen"/>bell o rim an noone ſenſe as tou art.</hi>
+               </p>
+            </sp>
+            <pb n="14" facs="tcp:170513:8"/>
+            <sp>
+               <speaker>Crofton.</speaker>
+               <p>I profeſſe you are very uncivil ſir.</p>
+            </sp>
+            <sp>
+               <speaker>Scottiſhman.</speaker>
+               <p>
+                  <hi>Ne Ne noot ſa, un<g ref="char:EOLhyphen"/>ſele as tow art toll pip, i the Laſ<g ref="char:EOLhyphen"/>ſes breches an ſee aw foor noaught, their very noock an aw, geod feath yee</hi> Presbyters <hi>are pintell proud</hi> Jacks, <hi>yee loove to be pepin in hools an vant your Leachery at yare fingers ends ſirs.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Crofton.</speaker>
+               <p>You baſe unworthy man, doe you abuſe me in my own howſe?</p>
+            </sp>
+            <sp>
+               <speaker>Scottiſhman.</speaker>
+               <p>
+                  <hi>Nee Nee yee ha a<g ref="char:EOLhyphen"/>baſed yar nan ſell ſir, in yar non hooſe an a brod ta ſir, bi bringing yar tiny Laſſe tool the ſtol o Re<g ref="char:EOLhyphen"/>pentance, gif ya ſtend ſe muckle and mayn on yar Covenant, an your San<g ref="char:EOLhyphen"/>tete, whot med ye ſham et ſe beſtli, but yar looſt lick a fawſe Loone gis yee are.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>Crofton.</speaker>
+               <p>Get you out of my doores, I profeſſe my fingers tingle at him.</p>
+            </sp>
+            <pb n="16" facs="tcp:170513:8"/>
+            <sp>
+               <speaker>Scottiſhman.</speaker>
+               <p>
+                  <hi>Ne, Ne, tes at an<g ref="char:EOLhyphen"/>other Laſs Mon, gang yar waies foor a coople of Dunces, yee cannoot hald deſpute worth a Crack.</hi>
+               </p>
+            </sp>
+            <p>And ſo the <hi>Scottiſh</hi> parſon left them, fuming and fretting that their knave<g ref="char:EOLhyphen"/>ries ſhould be ſo diſcovered to the world, and gave order to the perſon aforeſaid to publiſh this paſſage, that his Credit might receive no pre<g ref="char:EOLhyphen"/>judice by their Quarrelling.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
